@@ -1,0 +1,4 @@
+.env
+.idea
+*.ds
+__pycache__
